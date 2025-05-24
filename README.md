@@ -48,6 +48,3 @@ O Projeto DSList é uma aplicação Java desenvolvida no Intensivão Java Spring
 4. Compile e execute a classe Main para iniciar o programa.
 
 ##
-
-
-Feito com 💜 por Larissa Soares!  
