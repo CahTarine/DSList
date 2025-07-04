@@ -1,8 +1,8 @@
 <h1 align="center">🕹️ DSList </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-em_desenvolvimento-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-17-blueviolet?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/status-em_desenvolvimento-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-17-purple?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
@@ -48,3 +48,6 @@ O Projeto DSList é uma aplicação Java desenvolvida no Intensivão Java Spring
 4. Compile e execute a classe Main para iniciar o programa.
 
 ##
+## 👩🏻‍💻 Desenvolvedora
+
+Feito com 💜 por Camille Tarine!
